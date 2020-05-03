@@ -1,6 +1,2 @@
-# Cube-d
-3D Unity Project 
-
-This is a README
-
-![](images/Image One)
+# Cube-d 
+<img src="images/Image%20One.png">
